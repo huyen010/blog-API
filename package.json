@@ -1,0 +1,48 @@
+{
+  "name": "blogproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "accesscontrol": "^2.2.1",
+    "bcrypt": "^5.0.1",
+    "bluebird": "^3.7.2",
+    "cloudinary": "^1.32.0",
+    "config": "^3.3.7",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-async-errors": "^3.1.1",
+    "express-fileupload": "^1.4.0",
+    "express-session": "^1.17.3",
+    "install": "^0.13.0",
+    "joi": "^17.6.0",
+    "joi-objectid": "^4.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.5.2",
+    "multer": "^1.4.5-lts.1",
+    "multer-storage-cloudinary": "^4.0.0",
+    "npm": "^8.18.0",
+    "objectid": "^2.3.0",
+    "redis": "^4.3.1",
+    "redis-server": "^1.2.2",
+    "slug": "^6.0.0",
+    "slugify": "^1.6.5",
+    "socket.io": "^4.5.2",
+    "streamifier": "^0.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/learning2222/huyen/blog-api.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://gitlab.com/learning2222/huyen/blog-api/issues"
+  },
+  "homepage": "https://gitlab.com/learning2222/huyen/blog-api#readme",
+  "description": ""
+}
